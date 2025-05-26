@@ -582,7 +582,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Solaria",
-    img: "4gdcx56kjx4.png",
+    img: "sJPpvRr.png",
     opts: { home: ["other"], owner: ["azuriu"], artless: true }
   },
   {
